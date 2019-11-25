@@ -1,0 +1,35 @@
+.robots-bar-container {
+	height: 98px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.robots-bar-container-text {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-left: 25px;
+}
+
+.container {
+	width: calc(100% - 250px);
+	float: right;
+}
+
+.add-robot-button-container {
+	display: flex;
+	align-items: center;
+	padding-right: 25px;
+}
+
+.table-row-head {
+	height: 70px;
+}
+
+.table-row-body {
+	height: 80px;
+}
+
+.table-row-body__delete-icon-cell {
+	text-align: right !important;
+}

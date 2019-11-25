@@ -1,0 +1,17 @@
+.modal__body {
+	width: 400px;
+	position: absolute;
+	background: white;
+	top: calc(50% - 100px);
+	left: calc(50% - 200px);
+	padding: 16px;
+}
+
+.modal__confirm-button {
+	float: right;
+}
+
+.modal__header {
+	display: flex;
+	justify-content: space-between;
+}

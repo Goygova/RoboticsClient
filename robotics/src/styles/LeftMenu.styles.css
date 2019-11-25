@@ -1,0 +1,31 @@
+.logo-container {
+	height: 98px;
+	background-color: #37474f;
+	display: flex;
+	align-items: center;
+	padding-left: 20px;
+}
+
+.drawer-container {
+	width: 250px;
+}
+
+.left-menu-company-dropdown__button-container {
+	justify-content: space-between;
+	padding: 20px;
+}
+
+.left-menu-company-dropdown__button-text {
+	padding-right: 20px;
+}
+
+.left-menu-item-link {
+	display: flex;
+	text-decoration: none;
+	text-align: left;
+	padding-left: 20px;
+}
+
+.left-menu-item__icon {
+	margin-right: 20px;
+}

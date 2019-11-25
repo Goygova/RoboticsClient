@@ -1,0 +1,38 @@
+.drawer-header {
+	display: flex;
+	justify-content: space-between;
+	width: 480px;
+	padding: 0 18px 0 30px;
+}
+
+.drawer-header__close-button {
+	display: flex;
+	align-items: center;
+}
+
+.add-robot-form {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+}
+
+.add-robot-form__field-container {
+	display: flex;
+	justify-content: space-around;
+}
+
+.add-robot-field {
+	margin-left: 4px;
+	margin-right: 4px;
+	width: 420px;
+}
+
+.add-robot-form__buttons-container {
+	display: flex;
+	padding: 30px;
+	justify-content: flex-end;
+}
+
+.add-robot-form__buttons-container button:nth-child(1) {
+	margin-right: 20px;
+}
