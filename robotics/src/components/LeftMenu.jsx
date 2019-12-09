@@ -26,9 +26,7 @@ function LeftMenu(props) {
 	};
 	return (
 		<Drawer variant='permanent' anchor='left' classes={{ paper: 'drawer-container' }}>
-			<div className='logo-container'>
-				<img src='./assets/Pepper_Icon.png' alt='logo' />
-			</div>
+			<div className='logo-container'>Robotics</div>
 			<Divider />
 			<div className='left-menu-company-dropdown__button-container'>
 				<Button size='small' onClick={handleClick}>

@@ -4,6 +4,9 @@
 	display: flex;
 	align-items: center;
 	padding-left: 20px;
+	font-size: 24px;
+	color: white;
+	font-weight: bold;
 }
 
 .drawer-container {
